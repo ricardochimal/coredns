@@ -34,6 +34,7 @@ var Directives = []string{
 	"local",
 	"dns64",
 	"acl",
+	"aaaa_filter",
 	"any",
 	"chaos",
 	"loadbalance",
